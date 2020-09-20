@@ -1,0 +1,39 @@
+/* Made By Prathamesh Thorat */
+body {
+    margin:5px;
+    padding:0;
+    background-color:#071A52;
+}
+#main{
+    background-color:#086972;
+    border:5px solid #A7FF83;
+    border-radius:20px;
+    height:100px;
+    margin-top:50px;
+}
+#text{
+    background-color:#fff;
+    border-bottom:5px solid #A7FF83;;
+    border-top:0;
+    border-right:0;
+    border-left:0;
+    height:30px;
+    width:300px;
+    transform:translate(25px , 30px);
+    text-align:center;
+    font-weight:bold;
+    box-shadow:5px 5px 0 0 #071A52;
+}
+#secs{
+    background-color:#17B978;
+    border:5px solid #A7FF83;
+    border-radius:20px;
+    margin-top:5px;
+    height:200px;
+    font-weight:bolder;  
+    overflow:scroll;
+}
+#text_box{
+    font-weight:bolder;
+    margin:10px;
+}
